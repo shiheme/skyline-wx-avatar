@@ -1,10 +1,10 @@
 # `skyline-wx-avatar`
 
-[skyline-wx-avatar](https://markdown.lovejade.cn/?utm_source=markdown.lovejade.cn)，是比比开源的一款头像挂件微信小程序，使用微信小程序最新skyline渲染框架，基于uniapp+vue3+ts+图鸟UI构建。
+[skyline-wx-avatar](https://beebee.work/)，是比比开源的一款头像挂件微信小程序，使用微信小程序最新skyline渲染框架，基于uniapp+vue3+ts+图鸟UI构建。
 
 该项目已适配微信小程序隐私政策，截图、获取头像等诸多新的接口
 
-
+![预览图](https://github.com/shiheme/skyline-wx-avatar/blob/main/mini-beebeered-2.jpg)
 
 ## 如何使用
 
