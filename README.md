@@ -63,3 +63,4 @@ https://beebee.work
 
 【Hello比比】为比比原创小程序官方唯一公众号，
 【APP比比】为开源作品推荐官方唯一公众号，
+![联系我](https://github.com/shiheme/skyline-wx-avatar/blob/main/qrcode.jpeg)
