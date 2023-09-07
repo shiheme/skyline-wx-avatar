@@ -1,0 +1,14 @@
+@use '../mixins/mixins.scss' as *;
+
+@include b('radio-group') {
+  position: relative;
+  width: 100%;
+
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+
+  @include when(wrap) {
+    display: block;
+  }
+}

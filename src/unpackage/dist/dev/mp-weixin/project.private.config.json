@@ -1,0 +1,26 @@
+{
+  "description": "项目私有配置文件。此文件中的内容将覆盖 project.config.json 中的相同字段。项目的改动优先同步到此文件中。详见文档：https://developers.weixin.qq.com/miniprogram/dev/devtools/projectconfig.html",
+  "projectname": "比比头像生成",
+  "setting": {
+    "compileHotReLoad": true,
+    "urlCheck": false,
+    "skylineRenderEnable": true
+  },
+  "condition": {
+    "miniprogram": {
+      "list": [
+        {
+          "name": "back",
+          "pathName": "pages/index/index",
+          "query": "",
+          "launchMode": "default",
+          "scene": 1038,
+          "referrerInfo": {
+            "appId": "wxe7432f7ecc04f389",
+            "extraData": "{\"image\":\"https://pic.rmb.bdstatic.com/bjh/user/466389ce9c88923f3e579e46a98c1446.png\"}"
+          }
+        }
+      ]
+    }
+  }
+}

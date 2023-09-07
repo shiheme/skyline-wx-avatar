@@ -1,0 +1,221 @@
+/**
+ * 这里是uni-app内置的常用样式变量
+ *
+ * uni-app 官方扩展插件及插件市场（https://ext.dcloud.net.cn）上很多三方插件均使用了这些样式变量
+ * 如果你是插件开发者，建议你使用scss预处理，并在插件代码中直接使用这些变量（无需 import 这个文件），方便用户通过搭积木的方式开发整体风格一致的App
+ *
+ */
+/**
+ * 如果你是App开发者（插件使用者），你可以通过修改这些变量来定制自己的插件主题，实现自定义主题功能
+ *
+ * 如果你的项目同样使用了scss预处理，你也可以直接在你的 scss 代码中使用如下变量，同时无需 import 这个文件
+ */
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.content.data-v-1cf27b2a {
+  --bee-SVG-INVERT: invert(0);
+  --bee-BG-MAIN: rgba(255, 255, 255, 1);
+  --bee-BG-MAIN-00: rgba(255, 255, 255, 0);
+  --bee-BG-MAIN-01: rgba(255, 255, 255, .1);
+  --bee-BG-MAIN-95: rgba(255, 255, 255, .95);
+  --bee-BG-MAIN-50: rgba(255, 255, 255, .5);
+  --bee-BG-AIR: rgba(245, 245, 245, 1);
+  --bee-BG-AIR-00: rgba(245, 245, 245, 0);
+  --bee-BG-AIR-95: rgba(245, 245, 245, .95);
+  --bee-BG-SUB: rgba(255, 255, 255, 1);
+  --bee-BG-MAIN-FC: rgba(0, 0, 0, 1);
+  --bee-BG-MAIN-FC-60: rgba(0, 0, 0, .6);
+  --bee-BG-MAIN-FC-05: rgba(0, 0, 0, .05);
+  --bee-BG-LOG-00: rgba(0, 0, 0, 1);
+  --bee-BG-00: rgba(0, 0, 0, 1);
+  --bee-BG-00-40: rgba(0, 0, 0, .4);
+  --bee-BG-00-03: rgba(0, 0, 0, .03);
+  --bee-BG-00-10: rgba(0, 0, 0, .1);
+  --bee-BG-FFF: rgba(255, 255, 255, 1);
+  --bee-FC-000-40: rgba(0, 0, 0, .4);
+  --bee-FC-000-60: rgba(0, 0, 0, .6);
+  --bee-FC-000-80: rgba(0, 0, 0, .8);
+  --bee-FC-000: rgba(0, 0, 0, 1);
+  --bee-FC-000-04: rgba(0, 0, 0, .04);
+  --bee-BOR-000-05: rgba(0, 0, 0, .05);
+}
+.content.data-v-1cf27b2a {
+  width: 100%;
+  height: 100%;
+}
+.content .atr-area.data-v-1cf27b2a {
+  margin: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.content .images.data-v-1cf27b2a {
+  border-radius: 8px;
+  overflow: hidden;
+  background-color: #f0f0f0;
+  position: relative;
+}
+.content .images .img.data-v-1cf27b2a {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+.content .hecheng.data-v-1cf27b2a {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.content .hecheng .btn.data-v-1cf27b2a {
+  width: 80%;
+  height: 36px;
+  border-radius: 8px;
+  background-color: #65D19F;
+  color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.mainbtns.data-v-1cf27b2a {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  position: relative;
+  margin-top: 25px;
+  margin-bottom: 10px;
+  padding: 0 25px;
+}
+.mainbtns .btn.data-v-1cf27b2a {
+  position: relative;
+  flex-grow: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 14px;
+  font-size: 16px;
+}
+.mainbtns .btn .button.data-v-1cf27b2a {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border: none !important;
+  opacity: 0;
+  z-index: 15;
+}
+.minicopy.data-v-1cf27b2a {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  line-height: 1.5;
+  font-size: 11px;
+  color: var(--bee-FC-000-40);
+}
+@keyframes shake-1cf27b2a {
+  /* 水平抖动，核心代码 */
+10%, 90% {
+    transform: translate3d(-1px, 0, 0);
+}
+20%, 80% {
+    transform: translate3d(2px, 0, 0);
+}
+30%, 70% {
+    transform: translate3d(-4px, 0, 0);
+}
+40%, 60% {
+    transform: translate3d(4px, 0, 0);
+}
+50% {
+    transform: translate3d(-4px, 0, 0);
+}
+}
+.privacyBox.on.data-v-1cf27b2a {
+  animation: shake-1cf27b2a 800ms ease-in-out;
+}
+.privacyBox.data-v-1cf27b2a {
+  background-color: var(--bee-BG-AIR);
+  display: flex;
+  flex-direction: column;
+  border-radius: 16px;
+  overflow: hidden;
+}
+.privacyBox .title.data-v-1cf27b2a {
+  width: 100%;
+  text-align: center;
+  font-size: 20px;
+  padding: 20px 15px 0;
+  flex-shrink: 0;
+}
+.privacyBox .msg.data-v-1cf27b2a {
+  width: 100%;
+  font-size: 13px;
+  padding: 15px 15px 0;
+  display: flex;
+  flex-direction: row;
+  opacity: 0.6;
+}
+.privacyBox .content.data-v-1cf27b2a {
+  width: 100%;
+  font-size: 13px;
+  padding: 20px 20px 0;
+  line-height: 1.5;
+  opacity: 0.7;
+  font-weight: 300;
+}
+.privacyBox .operation.data-v-1cf27b2a {
+  width: 100%;
+  position: relative;
+  margin-top: 25px;
+  margin-bottom: 10px;
+  padding: 0 25px;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.privacyBox .operation .confirm.data-v-1cf27b2a {
+  border-radius: 100px;
+}
+.privacyBox .operation .button.data-v-1cf27b2a {
+  position: relative;
+  flex-grow: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 14px;
+  font-size: 16px;
+}
+.privacyBox .operation .button .btn.data-v-1cf27b2a {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border: none !important;
+  opacity: 0;
+  z-index: 15;
+}

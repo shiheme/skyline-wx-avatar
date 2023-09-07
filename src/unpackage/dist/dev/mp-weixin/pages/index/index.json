@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "比比头像生成",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "bee-popup": "../../components/models/popup/src/popup"
+  }
+}

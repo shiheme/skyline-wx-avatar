@@ -1,0 +1,18 @@
+"use strict";
+const components_models_overlay_index = require("../index.js");
+require("../../../utils/vue/install.js");
+require("../../../../common/vendor.js");
+require("../../../libs/lodash/_baseToString.js");
+require("../../../constants/z-index.js");
+require("../../../utils/vue/props/runtime.js");
+require("../../../libs/lodash/from-pairs.js");
+require("../../../libs/lodash/is-boolean.js");
+require("../../../libs/lodash/is-object-like.js");
+require("../../../libs/lodash/_objectToString.js");
+require("./composables/use-overlay.js");
+require("../../../hooks/use-namespace/index.js");
+require("../../../utils/is-empty.js");
+require("../../../hooks/use-uniapp-system-rect-info/index.js");
+require("../../../utils/error.js");
+require("../../../hooks/use-z-index/index.js");
+wx.createComponent(components_models_overlay_index.Component);

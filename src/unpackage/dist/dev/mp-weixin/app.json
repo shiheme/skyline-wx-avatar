@@ -1,0 +1,29 @@
+{
+  "pages": [
+    "pages/index/index"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "比比头像生成",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "renderer": "skyline",
+  "lazyCodeLoading": "requiredComponents",
+  "componentFramework": "glass-easel",
+  "darkmode": false,
+  "__usePrivacyCheck__": true,
+  "rendererOptions": {
+    "skyline": {
+      "defaultDisplayBlock": false,
+      "disableABTest": true,
+      "sdkVersionBegin": "3.0.0",
+      "sdkVersionEnd": "15.255.255",
+      "iosVersionBegin": "8.0.38",
+      "iosVersionEnd": "15.255.255",
+      "androidVersionBegin": "8.0.38",
+      "androidVersionEnd": "15.255.255"
+    }
+  },
+  "usingComponents": {}
+}

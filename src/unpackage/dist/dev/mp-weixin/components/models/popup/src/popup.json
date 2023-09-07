@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "styleIsolation": "apply-shared",
+  "usingComponents": {
+    "tn-overlay": "../../overlay/src/overlay",
+    "tn-icon": "../../icon/src/icon"
+  }
+}

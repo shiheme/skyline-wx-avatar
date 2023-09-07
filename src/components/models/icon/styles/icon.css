@@ -1,0 +1,350 @@
+.svgicon {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-add-circle-fill:before {
+  content: "\e900";
+}
+.icon-add-circle-line:before {
+  content: "\e901";
+}
+.icon-add-fill:before {
+  content: "\e902";
+}
+.icon-advertisement-fill:before {
+  content: "\e903";
+}
+.icon-aliens-fill:before {
+  content: "\e904";
+}
+.icon-alipay-fill:before {
+  content: "\e905";
+}
+.icon-apple-fill:before {
+  content: "\e906";
+}
+.icon-arrow-drop-right-line:before {
+  content: "\e907";
+}
+.icon-arrow-left-double-fill:before {
+  content: "\e908";
+}
+.icon-arrow-left-line:before {
+  content: "\e909";
+}
+.icon-arrow-right-double-fill:before {
+  content: "\e90a";
+}
+.icon-baidu-fill:before {
+  content: "\e90b";
+}
+.icon-behance-fill:before {
+  content: "\e90c";
+}
+.icon-bilibili-fill:before {
+  content: "\e90d";
+}
+.icon-camera-fill:before {
+  content: "\e90e";
+}
+.icon-checkbox-blank-circle-line:before {
+  content: "\e90f";
+}
+.icon-checkbox-circle-fill:before {
+  content: "\e910";
+}
+.icon-close-circle-fill:before {
+  content: "\e911";
+}
+.icon-close-fill:before {
+  content: "\e912";
+}
+.icon-cloud-line:before {
+  content: "\e913";
+}
+.icon-copyright-line:before {
+  content: "\e914";
+}
+.icon-dingding-fill:before {
+  content: "\e915";
+}
+.icon-discord-fill:before {
+  content: "\e916";
+}
+.icon-douban-fill:before {
+  content: "\e917";
+}
+.icon-download-cloud-2-fill:before {
+  content: "\e918";
+}
+.icon-download-fill:before {
+  content: "\e919";
+}
+.icon-dribbble-fill:before {
+  content: "\e91a";
+}
+.icon-edge-fill:before {
+  content: "\e91b";
+}
+.icon-edit-box-line:before {
+  content: "\e91c";
+}
+.icon-equalizer-line:before {
+  content: "\e91d";
+}
+.icon-facebook-box-fill:before {
+  content: "\e91e";
+}
+.icon-facebook-fill:before {
+  content: "\e91f";
+}
+.icon-file-copy-2-line:before {
+  content: "\e920";
+}
+.icon-flickr-fill:before {
+  content: "\e921";
+}
+.icon-forward-15-fill:before {
+  content: "\e922";
+}
+.icon-gitee-fill:before {
+  content: "\e923";
+}
+.icon-github-fill:before {
+  content: "\e924";
+}
+.icon-google-fill:before {
+  content: "\e925";
+}
+.icon-google-play-fill:before {
+  content: "\e926";
+}
+.icon-heart-fill:before {
+  content: "\e927";
+  color: #f96d7d;
+}
+.icon-heart-line:before {
+  content: "\e928";
+}
+.icon-home-fill:before {
+  content: "\e929";
+}
+.icon-home-line:before {
+  content: "\e92a";
+}
+.icon-html5-fill:before {
+  content: "\e92b";
+}
+.icon-huawei-fill:before {
+  content: "\e92c";
+}
+.icon-image-fill:before {
+  content: "\e92d";
+}
+.icon-instagram-fill:before {
+  content: "\e92e";
+}
+.icon-linkedin-box-fill:before {
+  content: "\e92f";
+}
+.icon-linkedin-fill:before {
+  content: "\e930";
+}
+.icon-links-fill:before {
+  content: "\e931";
+}
+.icon-loader-5-fill:before {
+  content: "\e932";
+}
+.icon-lock-fill:before {
+  content: "\e933";
+}
+.icon-lock-line:before {
+  content: "\e934";
+}
+.icon-lock-unlock-fill:before {
+  content: "\e935";
+}
+.icon-lock-unlock-line:before {
+  content: "\e936";
+}
+.icon-mail-fill:before {
+  content: "\e937";
+}
+.icon-mail-line:before {
+  content: "\e938";
+}
+.icon-menu-2-line:before {
+  content: "\e939";
+}
+.icon-meta-fill:before {
+  content: "\e93a";
+}
+.icon-microsoft-fill:before {
+  content: "\e93b";
+}
+.icon-mini-program-fill:before {
+  content: "\e93c";
+}
+.icon-moon-fill:before {
+  content: "\e93d";
+}
+.icon-more-line:before {
+  content: "\e93e";
+}
+.icon-netease-cloud-music-fill:before {
+  content: "\e93f";
+}
+.icon-openai-fill:before {
+  content: "\e940";
+}
+.icon-pause-fill:before {
+  content: "\e941";
+}
+.icon-phone-fill:before {
+  content: "\e942";
+}
+.icon-pinterest-fill:before {
+  content: "\e943";
+}
+.icon-play-fill:before {
+  content: "\e944";
+}
+.icon-play-list-fill:before {
+  content: "\e945";
+}
+.icon-qq-fill:before {
+  content: "\e946";
+}
+.icon-qr-code-fill:before {
+  content: "\e947";
+}
+.icon-reddit-fill:before {
+  content: "\e948";
+}
+.icon-replay-15-fill:before {
+  content: "\e949";
+}
+.icon-search-2-fill:before {
+  content: "\e94a";
+}
+.icon-search-2-line:before {
+  content: "\e94b";
+}
+.icon-share-circle-line:before {
+  content: "\e94c";
+}
+.icon-shield-star-fill:before {
+  content: "\e94d";
+  color: #4692dd;
+}
+.icon-skip-back-fill:before {
+  content: "\e94e";
+}
+.icon-skip-forward-fill:before {
+  content: "\e94f";
+}
+.icon-skype-fill:before {
+  content: "\e950";
+}
+.icon-smartphone-fill:before {
+  content: "\e951";
+}
+.icon-smartphone-line:before {
+  content: "\e952";
+}
+.icon-snowy-fill:before {
+  content: "\e953";
+}
+.icon-snowy-line:before {
+  content: "\e954";
+}
+.icon-steam-fill:before {
+  content: "\e955";
+}
+.icon-stop-fill:before {
+  content: "\e956";
+}
+.icon-sun-fill:before {
+  content: "\e957";
+}
+.icon-switch-fill:before {
+  content: "\e958";
+}
+.icon-taobao-fill:before {
+  content: "\e959";
+}
+.icon-telegram-fill:before {
+  content: "\e95a";
+}
+.icon-tiktok-fill:before {
+  content: "\e95b";
+}
+.icon-tumblr-fill:before {
+  content: "\e95c";
+}
+.icon-twitter-fill:before {
+  content: "\e95d";
+}
+.icon-upload-fill:before {
+  content: "\e95e";
+}
+.icon-user-3-fill:before {
+  content: "\e95f";
+}
+.icon-user-3-line:before {
+  content: "\e960";
+}
+.icon-wechat-2-fill:before {
+  content: "\e961";
+}
+.icon-wechat-channels-fill:before {
+  content: "\e962";
+}
+.icon-wechat-fill:before {
+  content: "\e963";
+}
+.icon-wechat-pay-fill:before {
+  content: "\e964";
+}
+.icon-weibo-fill:before {
+  content: "\e965";
+}
+.icon-windows-fill:before {
+  content: "\e966";
+}
+.icon-wordpress-fill:before {
+  content: "\e967";
+}
+.icon-xiaohongshu-fill:before {
+  content: "\e968";
+}
+.icon-xiaomi-fill:before {
+  content: "\e969";
+}
+.icon-youtube-fill:before {
+  content: "\e96a";
+}
+.icon-yuque-fill:before {
+  content: "\e96b";
+}
+.icon-zcool-fill:before {
+  content: "\e96c";
+}
+.icon-zcool-line:before {
+  content: "\e96d";
+}
+.icon-zhihu-fill:before {
+  content: "\e96e";
+}
